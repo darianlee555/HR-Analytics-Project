@@ -4,37 +4,36 @@
 
 ![HR-career (3)](https://github.com/darianlee555/HR-Analytics-Project/assets/145151765/4c117f80-6f6e-40c4-839b-3d5da962449d)
 
-This is an **SQL** and **Power BI** project analysing **Human Resources Data** from a fictional company. The point of this project is to answer crucial questions using the HR data and provide deeper insights into employee patterns and future hiring decisions at this fictional company. 
-### Data Sources
+This is an **SQL** and **Power BI** project analysing a **Human Resources Dataset** from a fictional company. The point of this project is to answer crucial questions using the HR data and provide deeper insights and recommendations into employee patterns and future hiring decisions at this fictional company. 
 
+### Data Source
 
+https://www.kaggle.com/datasets/rhuebner/human-resources-data-set/data
 
-The **Vehicle Dataset** contains details on each vehicle involved in the crash.
+**Dataset Overview:**
 
-The **Crash Dataset** contains details on the crash event.
-
-The **Person Dataset** contains details for people involved in the crash.
-
-More further details and a description of each column of the datasets can be seen in the data source links above.
-
-The **Vehicle and Person Datasets** are **fact tables** connected to the **Crash Dataset (the dimension table)**. The fact tables are connected to the dimension table via a **Galaxy Schema Data Model** through the common column: **'collision_id'** with **many-to-one relationships (*:1)** 
-
-![data model](https://github.com/darianlee555/Portfolio-Projects/assets/145151765/e54e4ea7-c691-4d88-bbd9-52638aa9a712)
+The **Human Resources dataset** revolves around a fictitious company and the core data set contains info such as names, DOBs, age, gender, marital status, date of hire, reasons for termination, department, whether employees are active or terminated, position title, pay rate, manager name, and performance score.
+More further info about the dataset can be found in the data source link above.
 
 ### Objectives
 
 I wanted to answer the following questions using the data:
 
-* What was the most common reason for a crash?
-* What ages were most likely to get into car crashes?
-* What Borough of New York had the most injuries and fatalies?
-* What month generally had the most crashes?
-* Who is more likely to get into an accident, males or females?
-* What was the most common injury?
-* What type of crash (single vehicle crash, double vehicle crash, triple vehicle crash, etc.) was most common? 
-* For crashes that were fatalities, where was the location in the borough they occured?
-* What day and what timeframe had the most accidents?
-* What were the total number of crashes, injuries, and fatalities?
+* How many employees are in the company's history (AKA total employees)?
+* How many of those employees are currently still with the company (AKA current employees)?
+* How many of those employees left the company (AKA ex-employees)?
+* What was the average age with regards to current employees? Ex-employees? Total employees?
+* What is the attrition rate for this company?
+* What is the average amount of absences for total employees? Current Employees? Ex-employees?
+* What's the average salary for total employees? Current employees? Ex-employees?
+* What was the marital status for the employees?
+* What was the gender for the employees?
+* What department were/are the employees working in?
+* What was their race/ethinicity?
+* How was their performance at work?
+* What was their salary range?
+* On average, how long were the Ex-Employees employed?
+* What were the top 5 reasons for the Ex-Employees being terminated?
 
 ### Tools Used
 
