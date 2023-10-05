@@ -2,17 +2,12 @@
 
 ### Project Overview
 
-![head-on-collision (1)](https://github.com/darianlee555/Portfolio-Projects/assets/145151765/df3a5688-d1b2-4640-b683-49a8bd0e000d)
+![HR-career (3)](https://github.com/darianlee555/HR-Analytics-Project/assets/145151765/4c117f80-6f6e-40c4-839b-3d5da962449d)
 
-This is an **SQL** and **Power BI** project analysing **NYC Motor Vehicle Collision datasets** made from NYPD accident reports. The point of this project is to answer crucial questions with regards to traffic safety in NYC by providing insights and hopefully improving traffic safety by recommending data-backed course of actions for NYC to prevent possible future collisions.
-
+This is an **SQL** and **Power BI** project analysing **Human Resources Data** from a fictional company. The point of this project is to answer crucial questions using the HR data and provide deeper insights into employee patterns and future hiring decisions at this fictional company. 
 ### Data Sources
 
-**Vehicle Dataset**: https://data.cityofnewyork.us/Public-Safety/Motor-Vehicle-Collisions-Vehicles/bm4k-52h4
 
-**Crash Dataset**: https://data.cityofnewyork.us/Public-Safety/Motor-Vehicle-Collisions-Crashes/h9gi-nx95
-
-**Person Dataset**: https://data.cityofnewyork.us/Public-Safety/Motor-Vehicle-Collisions-Person/f55k-p6yu
 
 The **Vehicle Dataset** contains details on each vehicle involved in the crash.
 
