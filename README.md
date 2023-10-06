@@ -59,9 +59,7 @@ The following **Power BI** features were incorporated: DAX, Measures, Page Navig
 
 ### Features:
 - On the bottom left are navigational buttons that allow the user to navigate easily through the three pages of the dashboard to see data for total employees, current employees, and ex-employees.
-- The filters "Borough" and "Year" allow users to filter through the data to see data associated with a certain year and/or borough.
-- The "Key Insights" from analyzing the data are put on the left-hand side to make them more obvious to users.
-- A zoomable map is included with locations of fatalities for each borough so that the info about those particular collisions can be investigated further. 
+- The filters "By Manager", "Gender", "Department", "Recruitment Source", "By Performance", and "Marital Status" allow users to filter the data based on values in those categories.
 
 ### Analysis
 Here is the code used to obtain the following results: https://github.com/darianlee555/Portfolio-Projects/blob/main/SQL%20Motor%20Vehicle%20Crashes%20Code.sql
