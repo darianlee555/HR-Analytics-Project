@@ -46,6 +46,8 @@ I wanted to answer the following questions using the data:
 The following **SQL** skills were used: Joins, Subqueries/CTEs, Windows Functions, Aggregate Functions, Unions, Creating Views, Cases, Adding Data, Updating Data, 
 Cleaning/Transforming/Reformatting Data.
 
+If interested, here is the code: https://github.com/darianlee555/HR-Analytics-Project/blob/main/HR%20data%20queries.sql
+
 The following **Power BI** features were incorporated: DAX, Measures, Page Navigation/Buttons, Filters.
 
 ### Data Visualization/Dashboard
@@ -60,7 +62,7 @@ The following **Power BI** features were incorporated: DAX, Measures, Page Navig
 - The filters "By Manager", "Gender", "Department", "Recruitment Source", "By Performance", and "Marital Status" allow users to filter the data based on values in those categories.
 
 ### Analysis
-[Here is the code used to obtain the following results: https://github.com/darianlee555/Portfolio-Projects/blob/main/SQL%20Motor%20Vehicle%20Crashes%20Code.sql](https://github.com/darianlee555/HR-Analytics-Project/blob/main/HR%20data%20queries.sql)
+Here is the code used to get the following results: https://github.com/darianlee555/HR-Analytics-Project/blob/main/HR%20data%20queries.sql
 - Driver Inattention/Distracted Driving was the most likely reason for a crash.
 - People aged 21 to 40 were most likely to get into car crashes.
 - Brooklyn has the most injuries and fatalies of any borough.
