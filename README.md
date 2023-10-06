@@ -64,7 +64,7 @@ The following **Power BI** features were incorporated: DAX, Measures, Page Navig
 ### Analysis/Results/Insights
 Here is the code used to get the following results: 
 https://github.com/darianlee555/HR-Analytics-Project/blob/main/HR%20data%20queries.sql
-* There are 311 Total Employees in the company's history
+* There are 311 Total Employees in the company's history.
 * 207 are current employees.
 * 104 are ex-employees.
 * For total employees, the average age is 41. For current employees, the average age is 44. For ex-employees, the average age is 37. 
