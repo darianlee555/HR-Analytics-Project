@@ -48,7 +48,7 @@ Cleaning/Transforming/Reformatting Data.
 
 If interested here is the code: https://github.com/darianlee555/Portfolio-Projects/blob/main/SQL%20Motor%20Vehicle%20Crashes%20Code.sql
 
-The following **Power BI** features were incorporated: DAX, Measures, Page Navigation/Buttons, Data Modelling/Relationships, Filters.
+The following **Power BI** features were incorporated: DAX, Measures, Page Navigation/Buttons, Filters.
 
 ### Data Visualization/Dashboard
 
