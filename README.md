@@ -53,9 +53,8 @@ The following **Power BI** features were incorporated: DAX, Measures, Page Navig
 ### Data Visualization/Dashboard
 
 
-![Screenshot (18)](https://github.com/darianlee555/Portfolio-Projects/assets/145151765/8381b284-ebda-4cf9-8d33-370d13ba8cf8)
+![Screenshot (27)](https://github.com/darianlee555/HR-Analytics-Project/assets/145151765/6980bf53-d434-4997-8553-f5eab72233d0)
 
-![Screenshot (19)](https://github.com/darianlee555/Portfolio-Projects/assets/145151765/257386b4-4b9e-4a12-834e-9e1a69e44b47)
 
 ### Features:
 - "More Info" and "Previous Info" are navigational buttons that allow the user to navigate easily through the two pages of the dashboard.
