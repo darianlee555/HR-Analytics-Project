@@ -55,8 +55,6 @@ The following **Power BI** features were incorporated: DAX, Measures, Page Navig
 ![Screenshot (27)](https://github.com/darianlee555/HR-Analytics-Project/assets/145151765/67a8c48a-8eeb-47a6-b321-f8cadcf06ac0)
 
 
-
-
 ### Features:
 - "More Info" and "Previous Info" are navigational buttons that allow the user to navigate easily through the two pages of the dashboard.
 - The filters "Borough" and "Year" allow users to filter through the data to see data associated with a certain year and/or borough.
