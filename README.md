@@ -62,7 +62,8 @@ The following **Power BI** features were incorporated: DAX, Measures, Page Navig
 - The filters "By Manager", "Gender", "Department", "Recruitment Source", "By Performance", and "Marital Status" allow users to filter the data based on values in those categories.
 
 ### Analysis
-Here is the code used to get the following results: https://github.com/darianlee555/HR-Analytics-Project/blob/main/HR%20data%20queries.sql
+Here is the code used to get the following results: 
+https://github.com/darianlee555/HR-Analytics-Project/blob/main/HR%20data%20queries.sql
 - Driver Inattention/Distracted Driving was the most likely reason for a crash.
 - People aged 21 to 40 were most likely to get into car crashes.
 - Brooklyn has the most injuries and fatalies of any borough.
