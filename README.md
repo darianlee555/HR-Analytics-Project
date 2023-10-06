@@ -85,5 +85,5 @@ Based on the data, in order to prevent future vehicle collisions in NYC, I would
 
 ### More Screenshots showing Interactivity/Filters/Navigation
 ![](gif1.gif)
-
+![](safa.gif)
 
