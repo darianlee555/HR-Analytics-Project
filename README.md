@@ -52,7 +52,7 @@ The following **Power BI** features were incorporated: DAX, Measures, Page Navig
 
 ### Data Visualization/Dashboard
 
-![Screenshot (27)](https://github.com/darianlee555/HR-Analytics-Project/assets/145151765/67a8c48a-8eeb-47a6-b321-f8cadcf06ac0)
+![Screenshot (31)](https://github.com/darianlee555/HR-Analytics-Project/assets/145151765/abd79e6d-9a61-49d5-a229-a1d4d497a2c5)
 ![dsk](https://github.com/darianlee555/HR-Analytics-Project/assets/145151765/8ad665df-7c34-4501-a50c-d58922e9d7d7)
 ![dvfs](https://github.com/darianlee555/HR-Analytics-Project/assets/145151765/dca3ca20-d72e-40e5-884c-6081a9f34080)
 
