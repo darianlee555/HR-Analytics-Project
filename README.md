@@ -62,7 +62,7 @@ The following **Power BI** features were incorporated: DAX, Measures, Page Navig
 - The filters "By Manager", "Gender", "Department", "Recruitment Source", "By Performance", and "Marital Status" allow users to filter the data based on values in those categories.
 
 ### Analysis/Results/Insights
-Here is the code used to get the following results: 
+Here is the code used to get the following results/insights: 
 https://github.com/darianlee555/HR-Analytics-Project/blob/main/HR%20data%20queries.sql
 * There are 311 Total Employees in the company's history.
 * 207 are current employees.
