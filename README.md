@@ -8,11 +8,11 @@ This is an **SQL** and **Power BI** project analyzing a **Human Resources Datase
 
 ### Data Source
 
-https://www.kaggle.com/datasets/rhuebner/human-resources-data-set/data
+**Human Resources Dataset**: https://www.kaggle.com/datasets/rhuebner/human-resources-data-set/data
 
 **Dataset Overview:**
 
-The **Human Resources dataset** revolves around a fictitious company and the core data set contains info such as names, DOBs, age, gender, marital status, date of hire, reasons for termination, department, whether employees are active or terminated, position title, pay rate, manager name, and performance score.
+The **Human Resources Dataset** revolves around a fictitious company and the core data set contains info such as names, DOBs, age, gender, marital status, date of hire, reasons for termination, department, whether employees are active or terminated, position title, pay rate, manager name, and performance score.
 
 For further information about the dataset, please refer to the data source link above.
 
