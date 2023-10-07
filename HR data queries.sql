@@ -1,4 +1,5 @@
 --Create HR_Data Table
+/* Skills Used: Aggregate Functions, Cases, Adding Data, Updating Data, Cleaning/Transforming/Reformatting Data.*/
 Create Table HR_Data
 (
 Employee_Name varchar,
