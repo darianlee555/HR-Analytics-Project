@@ -44,8 +44,7 @@ I aim to answer the following questions using the datasets:
 
 ### Skills/Concepts Demonstrated
 
-The following **SQL** skills were used: Joins, Subqueries/CTEs, Windows Functions, Aggregate Functions, Unions, Creating Views, Cases, Adding Data, Updating Data, 
-Cleaning/Transforming/Reformatting Data.
+The following **SQL** skills were used: Aggregate Functions, Cases, Adding Data, Updating Data, Cleaning/Transforming/Reformatting Data.
 
 If interested, here is the code: https://github.com/darianlee555/HR-Analytics-Project/blob/main/HR%20data%20queries.sql
 
