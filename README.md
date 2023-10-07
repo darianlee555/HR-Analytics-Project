@@ -4,7 +4,7 @@
 
 ![HR-career (3)](https://github.com/darianlee555/HR-Analytics-Project/assets/145151765/4c117f80-6f6e-40c4-839b-3d5da962449d)
 
-This is an **SQL** and **Power BI** project analyzing a **Human Resources Dataset** from a fictional company. The point of this project is to answer crucial questions using the Human Resources data and provide deeper insights and recommendations into employee patterns and future hiring decisions at this fictional company. 
+This is an **SQL** and **Power BI** project analyzing **Human Resources Data** from a fictional company. The goal is to answer crucial questions using the Human Resources Data, provide deeper insights into employee patterns, and recommend changes based on the data in order to enhance diversity and success within this fictional company.
 
 ### Data Source
 
