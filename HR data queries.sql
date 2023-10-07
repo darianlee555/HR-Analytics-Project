@@ -1,5 +1,6 @@
 --PostgreSQL used
 /* Skills Used: Aggregate Functions, Cases, Adding Data, Updating Data, Cleaning/Transforming/Reformatting Data.*/
+-- The following dataset was used: https://www.kaggle.com/datasets/rhuebner/human-resources-data-set?resource=download
 --Create HR_Data Table
 Create Table HR_Data
 (
