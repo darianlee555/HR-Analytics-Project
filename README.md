@@ -4,7 +4,7 @@
 
 ![HR-career (3)](https://github.com/darianlee555/HR-Analytics-Project/assets/145151765/4c117f80-6f6e-40c4-839b-3d5da962449d)
 
-This is an **SQL** and **Power BI** project analysing a **Human Resources Dataset** from a fictional company. The point of this project is to answer crucial questions using the HR data and provide deeper insights and recommendations into employee patterns and future hiring decisions at this fictional company. 
+This is an **SQL** and **Power BI** project analyzing a **Human Resources Dataset** from a fictional company. The point of this project is to answer crucial questions using the HR data and provide deeper insights and recommendations into employee patterns and future hiring decisions at this fictional company. 
 
 ### Data Source
 
@@ -13,27 +13,28 @@ https://www.kaggle.com/datasets/rhuebner/human-resources-data-set/data
 **Dataset Overview:**
 
 The **Human Resources dataset** revolves around a fictitious company and the core data set contains info such as names, DOBs, age, gender, marital status, date of hire, reasons for termination, department, whether employees are active or terminated, position title, pay rate, manager name, and performance score.
-More further info about the dataset can be found in the data source link above.
+
+For further information about the dataset, please refer to the data source link above.
 
 ### Objectives
 
-I wanted to answer the following questions using the data:
+I aim to answer the following questions using the datasets:
 
-* How many employees are in the company's history (AKA total employees)?
-* How many of those employees are currently still with the company (AKA current employees)?
-* How many of those employees left the company (AKA ex-employees)?
-* What was the average age with regards to total employees? current employees? Ex-employees? 
-* What is the attrition rate for this company?
-* What is the average amount of absences for total employees? Current Employees? Ex-employees?
-* What's the average salary for total employees? Current employees? Ex-employees?
-* What was the marital status for the total and current employees?
-* What was the gender for the employees?
-* What department has the most employees?
-* What was their race/ethnicity?
-* How was the performance of most of the employees?
-* What is the most common salary range?
-* On average, how long were the Ex-Employees employed?
-* What were the biggest reasons for Ex-Employees leaving the company?
+1. How many employees are in the company's history (AKA total employees)?
+2. How many of those employees are currently still with the company (AKA current employees)?
+3. How many of those employees left the company (AKA ex-employees)?
+4. What was the average age with regards to total employees? current employees? Ex-employees?
+5. What is the attrition rate for this company?
+6. What is the average amount of absences for total employees? Current Employees? Ex-employees?
+7. What's the average salary for total employees? Current employees? Ex-employees?
+8. What was the marital status for the total and current employees?
+9. What was the gender for the employees?
+10. What department has the most employees?
+11. What was the race/ethnicity of the employees?
+12. How was the performance of the employees?
+13. What is the most common salary range?
+14. On average, how long were the Ex-Employees employed?
+15. What were the biggest reasons for Ex-Employees leaving the company?
 
 ### Tools Used
 
