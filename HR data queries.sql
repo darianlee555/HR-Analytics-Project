@@ -1,5 +1,6 @@
---Create HR_Data Table
+--PostgreSQL used
 /* Skills Used: Aggregate Functions, Cases, Adding Data, Updating Data, Cleaning/Transforming/Reformatting Data.*/
+--Create HR_Data Table
 Create Table HR_Data
 (
 Employee_Name varchar,
