@@ -86,6 +86,6 @@ Based on the data, I recommend that the company actively consider hiring more ma
 
 ### More Screenshots showing Interactivity/Filters/Navigation
 ![](gif1.gif)
-![](safa.gif)
+![](gif2.gif)
 ![gif3](https://github.com/darianlee555/HR-Analytics-Project/assets/145151765/05bdf730-a135-4562-9d8a-5b4aec0680f2)
 
